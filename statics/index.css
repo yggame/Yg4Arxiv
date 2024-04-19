@@ -101,7 +101,7 @@
 
     /* Components */
 
-    --chip-font: var(--nord12);
+    --chip-font: var(--nord08);
     --chip-color: var(--nord09);
 
     --body-color: var(--background-color);
