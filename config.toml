@@ -12,10 +12,10 @@ limit = 300
 category = "cs.CL"
 title = "Computation and Language"
 
-[[sources]]
-limit = 300
-category = "cs.IR"
-title = "Information Retrieval"
+# [[sources]]
+# limit = 300
+# category = "cs.IR"
+# title = "Information Retrieval"
 
 [[sources]]
 limit = 300
