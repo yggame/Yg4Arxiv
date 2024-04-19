@@ -19,6 +19,8 @@
     --nord10: #FF6347;
     --nord11: #FFFF00;
     --nord12: #FF1493;
+    --nord13: #FF0000;
+    --nord14: #FF00FF;
 
 
     /* Typograph */
@@ -54,6 +56,8 @@
     --details-a-hover: var(--nord0F);
 
     --highlight-title: var(--nord10);
+    --highlight-title2: var(--nord13);
+    --highlight-title3: var(--nord14);
     --highlight-author: var(--nord11);
 
     --article-summary-hover-color: var(--nord0D);
@@ -274,6 +278,16 @@ footer {
 
 .highlight-title {
     color: var(--highlight-title);
+    font-weight: bold;
+}
+
+.highlight-title2 {
+    color: var(--highlight-title2);
+    font-weight: bold;
+}
+
+.highlight-title3 {
+    color: var(--highlight-title3);
     font-weight: bold;
 }
 
