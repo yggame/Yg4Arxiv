@@ -16,6 +16,9 @@
     --nord0D: #ebcb8b;
     --nord0E: #a3be8c;
     --nord0F: #b48ead;
+    --nord10: #FF6347;
+    --nord11: #FFFF00;
+    --nord12: #FF1493;
 
 
     /* Typograph */
@@ -50,8 +53,8 @@
     --details-a: var(--nord07);
     --details-a-hover: var(--nord0F);
 
-    --highlight-title: var(--nord0B);
-    --highlight-author: var(--nord0B);
+    --highlight-title: var(--nord10);
+    --highlight-author: var(--nord11);
 
     --article-summary-hover-color: var(--nord0D);
     --article-summary-color: var(--nord04);
