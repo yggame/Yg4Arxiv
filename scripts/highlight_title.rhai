@@ -1,10 +1,7 @@
 import "scripts/config" as cfg;
 
 let title = params[0];
-let titles_model = params[1];
-let titles_type = params[2];
-let titles_method = params[3];
-let authors = params[4];
+let authors = params[1];
 
 title.trim();
 
