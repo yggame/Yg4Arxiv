@@ -130,6 +130,8 @@
     --details-a-hover: var(--color-hover);
 
     --highlight-title: var(--color-danger);
+    --highlight-title2: var(--nord13);
+    --highlight-title3: var(--nord14);
     --highlight-author: var(--color-warning);
 
     --article-summary-color: var(--color-text);
