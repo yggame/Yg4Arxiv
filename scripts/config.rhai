@@ -1,4 +1,4 @@
-let titles_type = ["Dataset", "Survey", "Review", "Overview"];
+let titles_type = ["Dataset", "Survey", "Review", "Overview", "CS-MR", "fastmri"];
 let titles_model = ["BERT", "GPT", "Transformer", "mamba"];
 let titles_method = ["Pre-train", "Pretrain", "Prompt", "Self-Supervised", "mamba"];
 let titles =  titles_model + titles_method + titles_type;
