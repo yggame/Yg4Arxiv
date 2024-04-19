@@ -36,7 +36,7 @@
     --header-container: var(--nord00);
     --header-title-preffix: var(--nord0F);
 
-    --chip-font: var(--nord08);
+    --chip-font: var(--nord12);
     --chip-color: var(--nord0B);
 
     --icons: var(--nord06);
@@ -78,8 +78,8 @@
     --color-primary-second: var(--nord00);
     --color-info: var(--nord0A);
     --color-success: var(--nord0E);
-    --color-warning: var(--nord0C);
-    --color-danger: var(--nord0B);
+    --color-warning: var(--nord11);
+    --color-danger: var(--nord10);
 
     --color-text: var(--nord00);
     --color-hover: var(--nord0D);
@@ -101,7 +101,7 @@
 
     /* Components */
 
-    --chip-font: var(--nord06);
+    --chip-font: var(--nord12);
     --chip-color: var(--nord09);
 
     --body-color: var(--background-color);
