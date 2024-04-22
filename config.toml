@@ -9,6 +9,11 @@ title = "Computer Vision and Pattern Recognition"
 
 [[sources]]
 limit = 300
+category = "cs.AI"
+title = "Artificial Intelligence"
+
+[[sources]]
+limit = 300
 category = "cs.CL"
 title = "Computation and Language"
 
