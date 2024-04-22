@@ -24,7 +24,7 @@ let conferences = [
     // Security
     "ACSA", "AsiaCCS", "CCS", "DSN", "ESORICS", "EuroS&P", "ICICS", "NDSS", "RAID", "SP", "USENIX Security",
     // Workshop
-    "CVPRW", 
+    "CVPRW"
 ];
 
 let start = conferences.shift();
