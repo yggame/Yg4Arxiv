@@ -1,5 +1,5 @@
 let titles_type = ["Dataset", "Survey", "Review", "Overview", "CS-MR", "fastmri", "Segmentation", " fusion", "super resolution", "super-resolution", "reconstruction", "MR image", "classification", "medical"];
-let titles_model = ["BERT", "GPT", "Transformer", "mamba", "Diffusion", "SFDA", "source-free domain adaptation", " TTA", "parameter-efficient fine-tuning"];
+let titles_model = ["BERT", "GPT", "Transformer", "mamba", " Diffusion", "SFDA", "source-free domain adaptation", " TTA", "parameter-efficient fine-tuning"];
 let titles_method = ["Pre-train", "Pretrain", "Prompt", "Self-Supervised", "In-Context Learning", "test time adaptation"];
 let titles =  titles_model + titles_method + titles_type;
 let authors_array = ["Yann LeCun", "Geoffrey Hinton", "Yoshua Bengio"];
@@ -24,7 +24,9 @@ let conferences = [
     // Security
     "ACSA", "AsiaCCS", "CCS", "DSN", "ESORICS", "EuroS&P", "ICICS", "NDSS", "RAID", "SP", "USENIX Security",
     // Workshop
-    "CVPRW"
+    "CVPRW",
+    // journal
+    "IEEE "
 ];
 
 let start = conferences.shift();
